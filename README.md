@@ -8,10 +8,6 @@ Bu proje, Python'ın `turtle` kütüphanesi kullanılarak oluşturulmuş bir yı
 - [Nasıl Çalıştırılır (How to Run)](#nasıl-çalıştırılır-how-to-run)
 - [Kontroller (Controls)](#kontroller-controls)
 - [Nasıl Oynanır (How to Play)](#nasıl-oynanır-how-to-play)
-- [Teknolojiler (Technologies)](#teknolojiler-technologies)
-- [Katkıda Bulunma (Contributing)](#katkıda-bulunma-contributing)
-- [Lisans (License)](#lisans-license)
-- [Yazar (Author)](#yazar-author)
 
 ## Özellikler (Features)
 
